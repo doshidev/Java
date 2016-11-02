@@ -1,5 +1,5 @@
 /*
- * File:    P1DeterminePi.java
+ * File:    RationalNumbers.java
  * Date:    Oct 27, 2016
  * Student: Devang Doshi | UCID: dbd24
  * Course:  Programming, Data Structure, and Alogrithms | Section: CS50581 
