@@ -20,7 +20,6 @@
        test(new Rational(10.7), new Rational(5.8));
        test(new Rational(195.2), new Rational(287.4));
        test(new Rational(-5.6), new Rational(-2.1));
-       
      }   
    
    public static void test(Rational one, Rational two) {
