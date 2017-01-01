@@ -9,7 +9,7 @@ public class Einstein extends Applet {
     public void paint(Graphics page){
         page.drawRect(50, 50, 40, 40);      // Square
         page.drawRect(60, 80, 225, 30);     // Rectangle
-        page.setColor(Color.yellow);
+        page.setColor(Color.red);
         page.fillRect(61, 81, 223, 28);     // Rectangle
         page.setColor(Color.black);
         page.drawOval(75, 65, 20, 20);      // Circle
